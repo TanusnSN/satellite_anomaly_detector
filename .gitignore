@@ -1,0 +1,13 @@
+# Environment variables / API Keys
+.env
+*.env
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Large test images (optional, to keep repo clean)
+*.mp4

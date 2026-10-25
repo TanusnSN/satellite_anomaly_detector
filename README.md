@@ -1,5 +1,5 @@
 # 🛰️ SatVision AI — Autonomous Satellite Anomaly & Threat Attribution Detector
-
+### by Calypso
 > **Track:** SpaceTech & Satellite Intelligence | Orcathon 2026
 > An AI-powered geospatial intelligence system designed to detect rapid terrestrial anomalies, delineate affected boundaries, quantify environmental disruption, and distinguish natural ecological shifts from anthropogenic damage.
 
